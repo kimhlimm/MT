@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "unplugin-vue-components": "^0.19.6"
+  },
+  "dependencies": {
+    "babel-plugin-import": "^1.13.5",
+    "vant": "^3.4.3"
+  }
+}
